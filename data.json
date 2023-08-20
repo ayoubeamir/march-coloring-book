@@ -1,24 +1,113 @@
-{
-  "AdsController": {
-    "adNetwork": "admob",
-    "splashAdActive": true,
-    "onbackAdActive": true,
-    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
-    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "admobNative": "ca-app-pub-3940256099942544/2247696110",
-    "applovinBanner": "16cb520e5",
-    "applovinInterstitial": "16cb520e5",
-    "applovinNative": "",
-    "unityGameId": "5120597",
-    "testMode": true,
-    "unityBanner": "Banner_Android",
-    "unityInterstitial": "Interstitial_Android",
-    "facebookBanner": "IMG_16_9_APP_INSTALL#1123378281689140_1123378698355765",
-    "facebookInterstitial": "IMG_16_9_APP_INSTALL#1123378281689140_1123378805022421",
-    "facebookNative": "IMG_16_9_APP_INSTALL#1123378281689140_1132397607453874",
-    "yandexBanner": "",
-    "yandexInterstitial": "",
-    "yandexNative": "",
-    "reviewActive": true
-  }
-}
+[
+      
+    {
+   
+    "title_game": "THE DANDY",
+    "desc_game": "THE DANDY",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/The%20Dandy.6e138dee4a3887d3b798.png",
+    "url_game": "https://api.gameskite.com/games/the-dandy/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+  
+
+   
+    
+ },
+
+ {
+   
+    "title_game": "RAM THE YODDHA",
+    "desc_game": "RAM THE YODDHA",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/ram%20the%20yoddha.038652d2b530c6774a43.png",
+    "url_game": "https://api.gameskite.com/games/ram-the-yoddha-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "FRUIT CHEF",
+    "desc_game": "FRUIT CHEF",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/fruit%20chef.c8c9827d74bbad6eb9a3.png",
+    "url_game": "https://api.gameskite.com/games/fruit-chef/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "ROBO CLONE",
+    "desc_game": "ROBO CLONE",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/robo%20clone.44571354be5b51248b03.png",
+    "url_game": "https://api.gameskite.com/games/robo-clone-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "CRICKET LIVE",
+    "desc_game": "CRICKET LIVE",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/cricket%20live.1a509f7cc49bd6fcaafb.png",
+    "url_game": "https://api.gameskite.com/games/cricket-live/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"of"
+   
+    
+ },
+
+ {
+   
+    "title_game": "BIRDS VS BLOCKS",
+    "desc_game": "BIRDS VS BLOCKS",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/birds%20vs%20blocks.d0e109ab9f83c8d15fbc.png",
+    "url_game": "https://api.gameskite.com/games/birds-vs-blocks-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "AQUA BLOCKS",
+    "desc_game": "AQUA BLOCKS",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/aqua%20blocks.46f73fa55ba1ff23123a.png",
+    "url_game": "https://api.gameskite.com/games/aqua-blocks-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+  {
+   
+    "title_game": "DROID O",
+    "desc_game": "DROID O",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/droid%20o.37c9df9c381ec07a8422.png",
+    "url_game": "https://api.gameskite.com/games/droid-o-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
+ 
+   {
+   
+    "title_game": "DROID O",
+    "desc_game": "DROID O",
+    "logo_game": "https://freakxgames.com/static/media/Feed%20Bobo.2d245a8e7214399e18ee.png",
+    "image_background_game": "https://freakxgames.com/static/media/droid%20o.37c9df9c381ec07a8422.png",
+    "url_game": "https://games.cdn.famobi.com/html5games/c/cannon-balls-3d/v190/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=3ffa11c2-61da-4974-892b-473582253371&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=753&original_ref=",
+	"type_ad":"off"
+   
+    
+ }
+
+]
