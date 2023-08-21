@@ -25,6 +25,17 @@
    
     
  },
+	{
+   
+    "title_game": "8 BALL BILLIARDS CLASSIC",
+    "desc_game": "8 BALL BILLIARDS CLASSIC",
+    "logo_game": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg?v=0.2-c5b5b387",
+    "image_background_game": "https://freakxgames.com/static/media/ram%20the%20yoddha.038652d2b530c6774a43.png",
+    "url_game": "https://api.gameskite.com/games/ram-the-yoddha-online/index.html?id=portal&adChannelId=1309076961&adChildId=null&isAFP=false&lang=0&lang=0",
+	"type_ad":"off"
+   
+    
+ },
  
   {
    
